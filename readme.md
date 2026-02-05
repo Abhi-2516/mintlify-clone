@@ -6,7 +6,7 @@ A **desktop-first documentation-style website** recreated by taking inspiration 
 
 ## 🔗 Live Demo
 
-*(Add your hosted link here – GitHub Pages / Netlify)*
+*https://abhi-mintlify-clone.netlify.app/*
 
 
 ---
@@ -137,7 +137,7 @@ The following sections have been recreated:
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/Abhi-2516/mintlify-clone.git
    ```
 
 2. Open `index.html` in any modern web browser
