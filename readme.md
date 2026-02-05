@@ -8,7 +8,6 @@ A **desktop-first documentation-style website** recreated by taking inspiration 
 
 *(Add your hosted link here – GitHub Pages / Netlify)*
 
-```
 
 ---
 
